@@ -10,7 +10,7 @@ export default function Home() {
      src={log} alt="Skinny" 
      width={140} 
      height={140}/>
-     <p className="text-zinc-900 text-xl font-bold ">Mastcarp</p>
+     <p className="text-[#3F2786] text-xl font-bold ">Mastcarp</p>
    
    
       </div>
