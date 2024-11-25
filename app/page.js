@@ -16,7 +16,7 @@ export default function Home() {
       </div>
       <p className="text-zinc-900 mt-24 px-8 text-base font-semibold ">When a carp learned to use Farcaster, it became a MastCarp. Now it's teaching other fish how to cast frames.</p>
      
-     <div className="px-28 text-zinc-900 pt-8  px-8 text-base  ">
+     <div className="px-32 text-zinc-900 pt-8  px-8 text-base  ">
      <p className="text-zinc-900 pt-8  px-8 text-base ">
 
 Okay, so picture this: everyone on Warpcast was trying to be the next big creator, making fancy Frames and dropping the hottest takes. They were all competing to be casting masters, taking themselves way too seriously.
