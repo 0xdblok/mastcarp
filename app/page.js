@@ -46,7 +46,7 @@ And that's how a token based on being mid at social media became the most relata
 </p>
 <p className="pt-2">Welcome to MastCarp - where the only skill requirement is having no skills at all.</p>
         </div>
-            <p  className="text-zinc-900 mt-24 px-8 text-base ">CA : TBA</p>
+            <p  className="text-zinc-900 mt-24 px-8 text-base ">CA : 0x60673A91bDa90c4F4b8A3DdFdE779E8D2A946faF</p>
        <div className=" pt-8">
        <a  href="https://app.uniswap.org/swap" className="px-4 py-2 bg-[#3F2786] hover:bg-[#3F2768] text-white text-sm font-medium rounded-md" type="button">
  Buy on Uniswap
